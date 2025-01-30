@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AbiGhtOmniaTest/copilot-chat/de423808/sessions
+/.vs/AbiGhtOmniaTest/CopilotIndices/17.12.53.23981
+/.vs/AbiGhtOmniaTest/DesignTimeBuild
+/.vs/AbiGhtOmniaTest/FileContentIndex
+/.vs/AbiGhtOmniaTest/v17
+/.vs/ProjectEvaluation
+/.vs/VSWorkspaceState.json
+/src/AbiGhtOmniaTest.Application/obj
+/src/AbiGhtOmniaTest.Domain/bin/Debug/net8.0
+/src/AbiGhtOmniaTest.Domain/obj
+/src/AbiGhtOmniaTest.Infraestructure/bin/Debug/net8.0
+/src/AbiGhtOmniaTest.Infraestructure/obj
+/src/AbiGhtOmniaTest.Application/bin
+/src/AbiGhtOmniaTest.DeveloperStoreApi/bin/Debug/net8.0
+/src/AbiGhtOmniaTest.DeveloperStoreApi/obj
+*.user
+/test/AbiGhtOmniaTest.Test/bin/Debug/net8.0
+/test/AbiGhtOmniaTest.Test/obj
+/.vs/AbiGhtOmniaTest/config
+/src/AbiGhtOmniaTest.DeveloperStoreApi/logs

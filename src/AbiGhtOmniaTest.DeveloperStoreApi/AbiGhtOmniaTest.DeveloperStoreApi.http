@@ -1,0 +1,35 @@
+@AbiGhtOmniaTest.DeveloperStoreApi_HostAddress = http://localhost:5075
+
+### Example Route 1
+GET {{AbiGhtOmniaTest.DeveloperStoreApi_HostAddress}}/api/example1
+Accept: application/json
+
+###
+
+### Example Route 2
+POST {{AbiGhtOmniaTest.DeveloperStoreApi_HostAddress}}/api/example2
+Content-Type: application/json
+
+{
+  "property1": "value1",
+  "property2": "value2"
+}
+
+###
+
+### Example Route 3
+PUT {{AbiGhtOmniaTest.DeveloperStoreApi_HostAddress}}/api/example3/1
+Content-Type: application/json
+
+{
+  "property1": "updatedValue1",
+  "property2": "updatedValue2"
+}
+
+###
+
+### Example Route 4
+DELETE {{AbiGhtOmniaTest.DeveloperStoreApi_HostAddress}}/api/example4/1
+Accept: application/json
+
+###
